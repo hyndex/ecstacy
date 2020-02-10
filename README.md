@@ -1,0 +1,2 @@
+# ecstacy
+GitHub Pages
